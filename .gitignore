@@ -1,0 +1,7 @@
+# ignore vscode files
+.vscode/*
+
+# ignore dataset, model, result
+data/*
+result/*
+model/*
