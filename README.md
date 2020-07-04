@@ -1,2 +1,3 @@
 # Pytorch Training
 
+Pytorchのtutorialコードをまとめたリポジトリです。
