@@ -1,0 +1,4 @@
+# ignore dataset, model, result
+data/*
+result/*
+model/*
